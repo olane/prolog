@@ -1,4 +1,4 @@
-% Author:
+% Author: Oli Lane
 % Date: 2013-10-18
 
 append([],A,A).
